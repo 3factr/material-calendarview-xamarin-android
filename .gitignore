@@ -38,3 +38,5 @@ Thumbs.db
 
 # dotCover
 *.dotCover
+
+CalendarSample/Resources/Resource\.designer\.cs
